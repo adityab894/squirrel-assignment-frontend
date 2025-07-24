@@ -8,8 +8,8 @@ const containerStyle = {
 };
 
 const center = {
-  lat: 12.9352, // Default to Bangalore
-  lng: 77.6245,
+  lat: 18.520430,
+  lng: 73.856743,
 };
 
 function PatientSearch() {
